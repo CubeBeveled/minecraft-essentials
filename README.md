@@ -11,6 +11,7 @@ Minecraft essentials is a list of commands made to be useful and to have fun wit
 
 # Plugins
 [World Guard](./worldguard.md)
+[Multiverse](./multiverse.md)
 
 
 # Colors
