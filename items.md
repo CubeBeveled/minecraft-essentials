@@ -1,0 +1,4 @@
+# Funni items
+* /minecraft:give @s netherite_sword{display:{Name:'{"text":"Big L","bold":true}',Lore:['{"text":"Yo mama so fat 32","bold":true,"italic":true,"underlined":true}']},RepairCost:1,Unbreakable:1b,Damage:255,Enchantments:[{id:"minecraft:protection",lvl:255s},{id:"minecraft:thorns",lvl:255s},{id:"minecraft:sharpness",lvl:255s},{id:"minecraft:bane_of_arthropods",lvl:255s},{id:"minecraft:knockback",lvl:255s},{id:"minecraft:fire_aspect",lvl:255s},{id:"minecraft:looting",lvl:255s},{id:"minecraft:sweeping",lvl:255s},{id:"minecraft:power",lvl:255s},{id:"minecraft:punch",lvl:255s},{id:"minecraft:soul_speed",lvl:255s},{id:"minecraft:swift_sneak",lvl:255s}]} 1
+
+* /give @s netherite_pickaxe{Enchantments:[{id:"minecraft:efficiency",lvl:255s},{id:"minecraft:fortune",lvl:255s}]} 1

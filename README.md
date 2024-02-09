@@ -1,18 +1,25 @@
 # Commands Essentials
 
 ## What is Commands Essentials ?
-Worldedit essentials is a list of commands made to have fun by BeveledCube
-
-# Funni items
-* /minecraft:give @s netherite_sword{display:{Name:'{"text":"Big L","bold":true}',Lore:['{"text":"Yo mama so fat 32","bold":true,"italic":true,"underlined":true}']},RepairCost:1,Unbreakable:1b,Damage:255,Enchantments:[{id:"minecraft:protection",lvl:255s},{id:"minecraft:thorns",lvl:255s},{id:"minecraft:sharpness",lvl:255s},{id:"minecraft:bane_of_arthropods",lvl:255s},{id:"minecraft:knockback",lvl:255s},{id:"minecraft:fire_aspect",lvl:255s},{id:"minecraft:looting",lvl:255s},{id:"minecraft:sweeping",lvl:255s},{id:"minecraft:power",lvl:255s},{id:"minecraft:punch",lvl:255s},{id:"minecraft:soul_speed",lvl:255s},{id:"minecraft:swift_sneak",lvl:255s}]} 1
-
-* /give @s netherite_pickaxe{Enchantments:[{id:"minecraft:efficiency",lvl:255s},{id:"minecraft:fortune",lvl:255s}]} 1
+Minecraft essentials is a list of commands made to be useful and to have fun with by BeveledCube
 
 # Building
-#### **NOTE: The Worledit plugin/mod is required to use the following commands**
-## Stone
-* //set stone_bricks,mossy_stone_bricks,cracked_stone_bricks
-* //set stone_brick_stairs,mossy_cobblestone_stairs,cobblestone_stairs
-* //set stone_bricks,mossy_stone_bricks
-* //set cracked_polished_blackstone_bricks,polished_blackstone,chiseled_polished_blackstone,stone_bricks,blackstone,cracked_stone_bricks,mossy_stone_bricks
-* //replace !air obsidian,observer,netherite_block,crying_obsidian,glowstone,shroomlight
+[Worldedit](./worldedit.md)
+
+# Items
+[Vanilla](./items.md)
+
+# Plugins
+[World Guard](./worldguard.md)
+
+
+# Colors
+Minecraft colors:
+&0 &&0  &1 &&1  &2 &&2  &3 &&3
+&4 &&4  &5 &&5  &6 &&6  &7 &&7
+&8 &&8  &9 &&9  &a &&a  &b &&b
+&c &&c  &d &&d  &e &&e  &f &&f
+&0 
+&&k &kMagic&r   &&l &lBold
+&&m &mStrike&r  &&n &nUline
+&&o &oItalic&r   &&r &rReset
